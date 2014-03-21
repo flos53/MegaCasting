@@ -1,4 +1,6 @@
 <?php
+
+require 'accueil.php';
 // Charge les librairies
 function __autoload($pClassName)
 {
