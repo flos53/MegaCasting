@@ -1,0 +1,11 @@
+
+   body {
+				color: black;
+                                
+				font-family: Comic;
+                               
+				background-image: url(ecran.jpg); 
+                                background-repeat: no-repeat; 
+                                background-attachment: fixed; 
+                                background-size: cover;
+			}
