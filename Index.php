@@ -1,10 +1,10 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
-// killian
+<html>
+    <head>
+        <title> Accueil </title>
+    </head>
+    <body>
+        <img name="ecran.jpeg" width="100%" height="100%">
+        <h1><center>Accueil</center></h1>
+    </body>
+    
+</html>
